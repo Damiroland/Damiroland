@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Damiroland
+- 👋 Hi, I’m @0xbtdegen
 - 👀 I’m interested in programming & software development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on blockchain projects
